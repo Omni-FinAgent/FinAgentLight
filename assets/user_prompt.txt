@@ -1,0 +1,5 @@
+<IMPORTANT>
+* You MUST first conduct market intelligence analysis, then proceed with decision-making, and iteratively execute both processes.
+* If your last action is market intelligence analysis, you MUST execute decision-making this turn.
+* If your last action is decision-making, you MUST execute market intelligence analysis this turn.
+</IMPORTANT>
